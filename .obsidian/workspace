@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "b649b6bea5f40a84",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0576eef2abbe22",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "E1-Hello World/1.1 Hello World.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1878eda0fe463ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a1b9bc6c2b1a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bfb67fd84cdd6a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ed5b518f3d20be5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e91901d85049df35",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d0acac8e978559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581033242d4a0aa3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "E1-Hello World/1.1 Hello World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "be0576eef2abbe22",
+  "lastOpenFiles": [
+    "E1-Hello World/1.1 Hello World.md",
+    "E1-Hello World/Images/LaunchSPA.png",
+    "E1-Hello World/1.2 HelloWorld Miscallaneous.md"
+  ]
+}
