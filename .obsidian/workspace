@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "be0576eef2abbe22",
+        "id": "a330dd184945838c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be0576eef2abbe22",
+  "active": "a330dd184945838c",
   "lastOpenFiles": [
     "E2-Outlook/E2.1 Search in Outlook.md",
-    "README.md",
-    "E2-Outlook/README.md",
     "E1-Hello World/1.2 HelloWorld Miscallaneous.md",
     "E1-Hello World/1.1 Hello World.md",
-    "E1-Hello World/README.md",
-    "E1-Hello World/Images/ExpressionEditor.png",
-    "E1-Hello World/Images/SearchLogMessageActivity.png",
-    "E1-Hello World/Images/ProjectCreation1.png",
-    "E1-Hello World/Images/DesktopTenantRegistration.png"
+    "E2-Outlook/Images/ReleaseOutlookInstance.png",
+    "E2-Outlook/Images/AddGetEmailsInContext.png",
+    "README.md",
+    "E2-Outlook/Images/SelectAgentVersion.png",
+    "E2-Outlook/Images/EnterCustomSearchCriteria.png",
+    "E2-Outlook/Images/SettingsIcon.png",
+    "E1-Hello World/Images/SettingsIcon.png"
   ]
 }
