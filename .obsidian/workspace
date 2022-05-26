@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4483c9f342e5034b",
+        "id": "190a75e9cfe6ce49",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "E2-Outlook/Images/ResultOfSaveAllAttachmentsTest.png"
+            "file": "E2-Outlook/2.4 Reply to an email.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E2-Outlook/Images/ResultOfSaveAllAttachmentsTest.png",
+                "file": "E2-Outlook/2.4 Reply to an email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4483c9f342e5034b",
+  "active": "190a75e9cfe6ce49",
   "lastOpenFiles": [
+    "E2-Outlook/2.4 Reply to an email.md",
+    "E2-Outlook/Images/CreateCustomData.png",
+    "E2-Outlook/Images/ReplyAttributes.png",
+    "E2-Outlook/Images/EmailBodyInReply.png",
+    "E2-Outlook/README.md",
+    "E2-Outlook/2.3 Save Email Attachments.md",
     "E2-Outlook/Images/ResultOfSaveAllAttachmentsTest.png",
     "E2-Outlook/Images/FolderPath.png",
     "E2-Outlook/Images/AssignTimeStamptoFolderName.png",
-    "E2-Outlook/2.3 Save Email Attachments.md",
-    "E2-Outlook/2.2 Process Search Results.md",
-    "E2-Outlook/2.1 Search in Outlook.md",
-    "E2-Outlook/Images/AddForever.png",
-    "E1-Hello World/1.2 HelloWorld Miscallaneous.md",
-    "E1-Hello World/1.1 Hello World.md",
-    "E2-Outlook/Images/ReleaseOutlookInstance.png"
+    "E2-Outlook/2.2 Process Search Results.md"
   ]
 }
