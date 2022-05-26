@@ -7,10 +7,9 @@
         "id": "4483c9f342e5034b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "E2-Outlook/2.2 Process Search Results.md",
-            "mode": "source"
+            "file": "E2-Outlook/Images/ResultOfSaveAllAttachmentsTest.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E2-Outlook/2.2 Process Search Results.md",
+                "file": "E2-Outlook/Images/ResultOfSaveAllAttachmentsTest.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "4483c9f342e5034b",
   "lastOpenFiles": [
+    "E2-Outlook/Images/ResultOfSaveAllAttachmentsTest.png",
+    "E2-Outlook/Images/FolderPath.png",
+    "E2-Outlook/Images/AssignTimeStamptoFolderName.png",
+    "E2-Outlook/2.3 Save Email Attachments.md",
     "E2-Outlook/2.2 Process Search Results.md",
-    "E2-Outlook/Images/AddForever.png",
     "E2-Outlook/2.1 Search in Outlook.md",
+    "E2-Outlook/Images/AddForever.png",
     "E1-Hello World/1.2 HelloWorld Miscallaneous.md",
     "E1-Hello World/1.1 Hello World.md",
-    "E2-Outlook/Images/ReleaseOutlookInstance.png",
-    "E2-Outlook/Images/AddGetEmailsInContext.png",
-    "README.md",
-    "E2-Outlook/Images/SelectAgentVersion.png",
-    "E2-Outlook/Images/EnterCustomSearchCriteria.png"
+    "E2-Outlook/Images/ReleaseOutlookInstance.png"
   ]
 }
