@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c618f2419c304ed5",
+        "id": "b9f12c9c16cc1e92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "E4-Integrated Project/4.1 Prepare Outlook Project.md",
+            "file": "E4-Integrated Project/4.3. New Integrated Project.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E4-Integrated Project/4.1 Prepare Outlook Project.md",
+                "file": "E4-Integrated Project/4.3. New Integrated Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c618f2419c304ed5",
+  "active": "b9f12c9c16cc1e92",
   "lastOpenFiles": [
-    "E4-Integrated Project/4.1 Prepare Outlook Project.md",
-    "E4-Integrated Project/Images/ReleaseVersionDialog.png",
-    "E4-Integrated Project/Images/ReleasefromSPALobby.png",
-    "E4-Integrated Project/Images/ReleaseFromWithinTheProject.png",
-    "E3-Excel/3.2 Read Excel Another Approach.md",
-    "E3-Excel/README.md",
-    "E3-Excel/3.1 Using ExcelCloudLink.md",
+    "E4-Integrated Project/4.3. New Integrated Project.md",
+    "E4-Integrated Project/4.2 Customize Excel Project.md",
+    "E4-Integrated Project/4.1 Customize Outlook Project.md",
+    "E4-Integrated Project/Images/SaveAsWorkbookPath.png",
+    "E4-Integrated Project/Images/NewAutomationCreation.png",
+    "Pasted image 20220529163555.png",
+    "E4-Integrated Project/Images/GetFolderCollection.png",
+    "E4-Integrated Project/Images/AddExcelSampleAsDependency.png",
     "E4-Integrated Project/README.md",
-    "E3-Excel/Images/ActivateBackFirstSheet.png",
-    "E3-Excel/Images/SaveAsWorkbook.png"
+    "E4-Integrated Project/Images/ReleaseVersionDialog.png"
   ]
 }
