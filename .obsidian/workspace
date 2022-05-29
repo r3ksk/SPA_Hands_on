@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "190a75e9cfe6ce49",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "E3-Excel/Images/ActivateBackFirstSheet.png"
-          }
-        }
-      },
-      {
-        "id": "a00678edb5196847",
+        "id": "c618f2419c304ed5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "E3-Excel/3.2 Read Excel Another Approach.md",
+            "file": "E4-Integrated Project/4.1 Prepare Outlook Project.md",
             "mode": "source"
           }
         }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E3-Excel/3.2 Read Excel Another Approach.md",
+                "file": "E4-Integrated Project/4.1 Prepare Outlook Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a00678edb5196847",
+  "active": "c618f2419c304ed5",
   "lastOpenFiles": [
+    "E4-Integrated Project/4.1 Prepare Outlook Project.md",
+    "E4-Integrated Project/Images/ReleaseVersionDialog.png",
+    "E4-Integrated Project/Images/ReleasefromSPALobby.png",
+    "E4-Integrated Project/Images/Release from within Project.png",
     "E3-Excel/3.2 Read Excel Another Approach.md",
-    "E3-Excel/Images/SaveAsWorkbook.png",
-    "E3-Excel/Images/FilterColumn.png",
-    "README.md",
+    "E3-Excel/README.md",
+    "E3-Excel/3.1 Using ExcelCloudLink.md",
+    "E4-Integrated Project/README.md",
     "E3-Excel/Images/ActivateBackFirstSheet.png",
-    "E3-Excel/Images/AddGetAllValues.png",
-    "Pasted image 20220529141001.png",
-    "E3-Excel/Images/ValidationResult.png",
-    "E3-Excel/Images/AddHideColumns.png",
-    "Pasted image 20220529130515.png"
+    "E3-Excel/Images/SaveAsWorkbook.png"
   ]
 }
